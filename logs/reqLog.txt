@@ -1,0 +1,9 @@
+/04/07/23	16:15:35:1535	dc077404-344b-4821-965f-78a91ec48968	GET	undefined	/
+/04/07/23	16:15:47:1547	ff1c64f7-aa5b-44a6-94a8-1f4b734acb90	GET	undefined	/
+/04/07/23	16:15:47:1547	05d2ba2b-12ed-46ca-9f06-2d49b14cfe4c	GET	undefined	/css/style.css
+/04/07/23	16:16:54:1654	04194b74-c7a9-44ec-acd5-9b66dce31240	GET	undefined	/
+/04/07/23	16:16:54:1654	378e90ec-2a50-47d6-8fe1-1b81cd175b76	GET	undefined	/css/style.css
+/04/07/23	16:17:00:170	ec088d12-d88c-41db-8324-4b8cbc93120c	GET	undefined	/dave
+/04/07/23	16:17:01:171	fe0820cf-7afb-4a1d-b4da-5232ff4eabc4	GET	undefined	/css/style.css
+/04/07/23	16:19:42:1942	5b357bea-df02-4f05-a973-b7314540f483	GET	undefined	/dave
+/04/07/23	16:19:42:1942	5e8a3fbd-c9fb-4569-b18e-97516cfc7edb	GET	undefined	/css/style.css
