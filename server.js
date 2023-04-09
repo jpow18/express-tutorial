@@ -28,8 +28,6 @@ app.use('/subdir', require('./routes/subdir'));
 
 // routes
 app.use('/', require('./routes/root'));
-app.use('/subdir', require('./routes/subdir'));
-app.use('/employees', require('./routes/api/employees'));
 
 app.all('*', (req, res) => {
   res.status(404);
