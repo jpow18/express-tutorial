@@ -22,12 +22,10 @@ app.use(express.json());
 
 // serve static files
 app.use(express.static(path.join(__dirname, '/public')));
-app.use('/subdir', express.static(path.join(__dirname, '/public')));
-
-app.use('/subdir', require('./routes/subdir'));
 
 // routes
 app.use('/', require('./routes/root'));
+app.use('/employees', require('./routes/api/employees'));
 
 app.all('*', (req, res) => {
   res.status(404);
